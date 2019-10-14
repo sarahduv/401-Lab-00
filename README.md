@@ -9,4 +9,8 @@ Using an exports module, we output a greeting as well as a goodbye.
 *travis
 *jsdoc
 
+### Travis
+https://www.travis-ci.com/sarahduv/401-Lab-00
+
+
 
